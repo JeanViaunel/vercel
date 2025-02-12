@@ -1,5 +1,15 @@
 # vercel
 
+## 41.1.1
+
+### Patch Changes
+
+- Updated dependencies [[`65a501582d22c48f75044eac4c13f1be5bcd2c79`](https://github.com/vercel/vercel/commit/65a501582d22c48f75044eac4c13f1be5bcd2c79), [`c93dbecb641890d2936547395d7744a5c197800a`](https://github.com/vercel/vercel/commit/c93dbecb641890d2936547395d7744a5c197800a)]:
+  - @vercel/remix-builder@5.3.1
+  - @vercel/build-utils@9.3.1
+  - @vercel/node@5.1.4
+  - @vercel/static-build@2.6.3
+
 ## 41.1.0
 
 ### Minor Changes

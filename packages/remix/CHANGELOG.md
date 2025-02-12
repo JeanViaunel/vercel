@@ -1,5 +1,11 @@
 # @vercel/remix-builder
 
+## 5.3.1
+
+### Patch Changes
+
+- [remix] Add link to documentation after vercelPreset() warning ([#12942](https://github.com/vercel/vercel/pull/12942))
+
 ## 5.3.0
 
 ### Minor Changes

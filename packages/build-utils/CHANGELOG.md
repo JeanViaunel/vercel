@@ -1,5 +1,11 @@
 # @vercel/build-utils
 
+## 9.3.1
+
+### Patch Changes
+
+- [build-utils] remove dead node 16 check ([#13047](https://github.com/vercel/vercel/pull/13047))
+
 ## 9.3.0
 
 ### Minor Changes
